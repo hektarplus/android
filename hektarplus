@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Гектар+ GPS замер площади поля | Скачать в Play Market</title>
+    <style>
+        /* Базовые стили для быстрого запуска */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #4CAF50; /* Цвет Google Play */
+            margin-bottom: 10px;
+        }
+        .cta-button {
+            display: inline-block;
+            padding: 15px 30px;
+            margin-top: 20px;
+            background-color: #4CAF50;
+            color: white;
+            text-decoration: none;
+            font-size: 20px;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .cta-button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Гектар+ GPS замер площади поля</h1>
+        
+        <p>
+            Самый простой и быстрый способ сделать что-то полезное! 
+            Скачайте наше приложение, чтобы увидеть, как легко можно [Основная функция].
+        </p>
+
+        <a href="https://play.google.com/store/apps/details?id=com.hektarplus" 
+           target="_blank" 
+           class="cta-button">
+            🚀 Скачать в Google Play
+        </a>
+
+        <p style="margin-top: 40px;">
+            [Здесь будет скриншот приложения]
+        </p>
+        
+        <p style="margin-top: 20px; font-size: 14px; color: #666;">
+            Работает на всех устройствах Android.
+        </p>
+    </div>
+
+</body>
+</html>
