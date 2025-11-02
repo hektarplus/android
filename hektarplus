@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Гектар+ GPS замер площади поля | Скачать в Play Market</title> 
+    <title>Измерение площади,поля Gps | Скачать в Play Market</title> 
     
     <style>
         /* Общие стили для чистого и современного вида */
@@ -69,10 +69,7 @@
             color: #333;
             font-size: 16px;
         }
-        .features-list li::before {
-            content: "✅";
-            margin-right: 10px;
-        }
+        
     </style>
 </head>
 <body>
@@ -92,7 +89,7 @@
             <li>Высокая точность GPS измерений.</li>
             <li>Сохранение истории замеров и управление проектами.</li>
             <li>Удобный и интуитивно понятный интерфейс.</li>
-            <li>Работает в автономном режиме (без интернета).</li>
+            <li>Для загрузки карт нужен интернет .</li>
         </ul>
 
         <a href="https://play.google.com/store/apps/details?id=com.hektarplus" 
